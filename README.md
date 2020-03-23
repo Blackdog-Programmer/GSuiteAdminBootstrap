@@ -17,7 +17,9 @@
 
 
 ## 1. Introduction to G Suite
-
+<ul>
+  <li><a href="https://support.google.com/a#topic=4388346">G Sutie Admin Help</a></li>
+</ul>
 
 ## 2. Managing G Suite
 
@@ -26,3 +28,11 @@
 
 
 ## 4. G Suite Mail Management
+
+
+## 5. Others
+<h4>Domain Services</h4>
+<ul>
+  <li><a href="https://www.enom.com/">enom</a></li>
+  <li><a href="https://sg.godaddy.com/offers/domains/godaddy-b?isc=gofkkr12&countryview=1&currencyType=krw&gclid=CjwKCAjwvOHzBRBoEiwA48i6AvTI4QWLZRGyg71Q3QtuR2KPQ0rP5QsZ4g3n9xnjXDXEraBmgdYXzhoCGVoQAvD_BwE&gclsrc=aw.ds">GoDaddy 5G</a></li>
+</ul>
