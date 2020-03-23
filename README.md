@@ -29,6 +29,7 @@
   <li><a href="https://support.google.com/a#topic=4388346">G Sutie Admin Help</a></li>
   <li><a href="https://support.google.com/a/answer/60216?authuser=1&hl=en">Verify your domain for G Suite</a></li>
   <li><a href="https://support.google.com/a/answer/140034?hl=en">Set up MX records for G Suite Gmail</a></li>
+  <li><a href="https://www.coursera.org/learn/introduction-g-suite/supplement/ZnN9g/introduction-to-account-and-domain-setup">Authorize email senders with SPF(Sender Policy Framework)</a></li>
 </ul>
 
 ## 2. Managing G Suite
