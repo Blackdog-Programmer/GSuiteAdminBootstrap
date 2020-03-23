@@ -21,6 +21,9 @@
   </ul>
 </ul>
 
+<ol>
+  <h4>During the meeting</h4>
+</ol>
 
 ## 1. Introduction to G Suite
 
