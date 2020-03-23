@@ -8,7 +8,8 @@
 </ul>
 
 <ul>
-  <ul>Level 1: Start and join video meetings
+  <h4>Level 1: Start and join video meetings</h4>
+  <ul>
     <li><a href="https://support.google.com/a/users/answer/9302870?authuser=1">1.1 Start a video meeting</a></li>
     <li><a href="https://support.google.com/a/users/answer/9303069?authuser=1&hl=en">1.2. Join a video meeting</a></li>
   </ul>
