@@ -1,3 +1,8 @@
+## Articles
+<ul>
+  <li><a href="https://www.cloudwards.net/what-are-dns-records/">What Are DNS Records?</a></li>
+</ul>
+
 ## 0. G Suite Services
 
 ### [0.1. Google Meet](https://support.google.com/meet/?hl=en#topic=7306097)
