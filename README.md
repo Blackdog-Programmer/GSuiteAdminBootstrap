@@ -7,6 +7,13 @@
   <li><a href="https://support.google.com/a/users/answer/9300131?authuser=1">Hangouts Meet cheat sheet</a></li>
 </ul>
 
+<ul>
+  <ul>Level 1: Start and join video meetings
+    <li><a href="https://support.google.com/a/users/answer/9302870?authuser=1">1.1 Start a video meeting</a></li>
+    <li><a href="https://support.google.com/a/users/answer/9303069?authuser=1&hl=en">1.2. Join a video meeting</a></li>
+  </ul>
+</ul>
+
 
 ## 1. Introduction to G Suite
 
