@@ -1,6 +1,6 @@
 ## 0. G Suite Services
 
-### [0-1. Google Meet](https://support.google.com/meet/?hl=en#topic=7306097)
+### [0.1. Google Meet](https://support.google.com/meet/?hl=en#topic=7306097)
 
 ## 1. Introduction to G Suite
 
