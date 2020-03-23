@@ -1,6 +1,7 @@
 ## Articles
 <ul>
-  <li><a href="https://my.bluehost.com/hosting/help/what-are-dns-records">What Are DNS Records?</a></li>
+  <li><a href=https://www.cloudwards.net/what-are-dns-records">What Are DNS Records?</a></li>
+  <li><a href="https://help.dreamhost.com/hc/en-us/articles/215032408-What-is-an-MX-record-">What is an MX record?</a></li>
 </ul>
 
 ## 0. G Suite Services
@@ -22,8 +23,12 @@
 
 
 ## 1. Introduction to G Suite
+
+### Week 1
 <ul>
   <li><a href="https://support.google.com/a#topic=4388346">G Sutie Admin Help</a></li>
+  <li><a href="https://support.google.com/a/answer/60216?authuser=1&hl=en">Verify your domain for G Suite</a></li>
+  <li><a href="https://support.google.com/a/answer/140034?hl=en">Set up MX records for G Suite Gmail</a></li>
 </ul>
 
 ## 2. Managing G Suite
