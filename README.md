@@ -1,6 +1,6 @@
 ## Articles
 <ul>
-  <li><a href="https://www.cloudwards.net/what-are-dns-records/">What Are DNS Records?</a></li>
+  <li><a href="https://my.bluehost.com/hosting/help/what-are-dns-records">What Are DNS Records?</a></li>
 </ul>
 
 ## 0. G Suite Services
