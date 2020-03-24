@@ -23,6 +23,7 @@
 
 <ol>
   <h4>During the meeting</h4>
+  <li><a href="https://support.google.com/meet/answer/9292748?hl=en&ref_topic=7290350">Change screen layouts in a meeting</a></li>
 </ol>
 
 ## 1. Introduction to G Suite
