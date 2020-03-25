@@ -1,7 +1,11 @@
 ## Articles
 <ul>
   <li><a href="https://gsuiteupdates.googleblog.com/">G Suite Updates Blog</a></li>
-  <li><a href=https://www.cloudwards.net/what-are-dns-records">What Are DNS Records?</a></li>
+  <li><a href=https://www.cloudwards.net/what-are-dns-records">What Are DNS Records?</a>
+    <ul>
+      <li><a href="https://www.cloudwards.net/best-web-hosting/">Best Web Hosting Providers 2020</a></li>
+    </ul>
+  </li>
   <li><a href="https://help.dreamhost.com/hc/en-us/articles/215032408-What-is-an-MX-record-">What is an MX record?</a></li>
 </ul>
 
