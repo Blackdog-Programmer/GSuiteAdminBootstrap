@@ -40,8 +40,18 @@
   <li><a href="https://support.google.com/a/answer/55955?visit_id=637205639733671240-2513694176&rd=1">What is the Admin console?</a></li>
   <li><a href="https://support.google.com/a/answer/3035631?hl=en">Admin Console Feature Map</a></li>
   <li><a href="https://support.google.com/a/answer/172177">Set up G Suite feature releases for users</a></li>
+  <li><a href="https://support.google.com/a/answer/6281927?authuser=1">Set up Supplemental Data Storage></a></li>
+  <li><a href="https://support.google.com/a/answer/7630496?hl=en">Choose a geographic location for your data</a></li>
+  <li><a href="https://support.google.com/a/answer/53340">Customize a G Suite service URL</a></li>
 </ul>
 
+<h4>Adding Users</h4>
+<ul>
+  <li><a href="https://support.google.com/a/topic/14586">Add Users</a></li>
+  <li><a href="https://support.google.com/a/answer/33310?hl=en&ref_topic=4364723">Add users individually</a></li>
+  <li><a href="https://support.google.com/a/answer/40057">Add several users at once</a></li>
+  <li><a href="https://www.varonis.com/blog/the-difference-between-active-directory-and-ldap/">The Difference Between Active Directory and LDAP(Lightweight Directory Access Protocol)</a></li>
+</ul>
 
 ## 2. Managing G Suite
 
