@@ -13,7 +13,6 @@
 <ul>
   <li><a href="https://support.google.com/a#topic=4388346">G Sutie Admin Help</a></li>
   <li><a href="https://support.google.com/a/community">G Suite Administrator Community</a></li>
-  <li><a href="https://www.varonis.com/blog/the-difference-between-active-directory-and-ldap/">The Difference Between Active Directory and LDAP(Lightweight Directory Access Protocol)</a></li>
 </ul>
 
 
@@ -51,7 +50,11 @@
   <li><a href="https://support.google.com/a/topic/14586">Add Users</a></li>
   <li><a href="https://support.google.com/a/answer/33310?hl=en&ref_topic=4364723">Add users individually</a></li>
   <li><a href="https://support.google.com/a/answer/40057">Add several users at once</a></li>
-  <li><a herf="https://support.google.com/a/answer/106368">About Google Cloud Directory Sync</a></li>
+  <li><a herf="https://support.google.com/a/answer/106368">About Google Cloud Directory Sync</a>
+    <ul>
+      <li><a href="https://www.varonis.com/blog/the-difference-between-active-directory-and-ldap/">The Difference Between Active Directory and LDAP(Lightweight Directory Access Protocol)</a></li>
+    </ul>
+  </li>
   <li><a herf=""> </a></li>
   <li><a herf=""> </a></li>
 </ul>
