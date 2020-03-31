@@ -12,6 +12,7 @@
 ## 0. Reference
 <ul>
   <li><a href="https://support.google.com/a#topic=4388346">G Sutie Admin Help</a></li>
+  <li><a href="https://support.google.com/a/community">G Suite Administrator Community</a></li>
 </ul>
 
 
@@ -37,7 +38,6 @@
     </ul>
   </li>
   <li><a href="https://support.google.com/a/answer/55955?visit_id=637205639733671240-2513694176&rd=1">What is the Admin console?</a></li>
-  <li><a href="https://support.google.com/a/community">G Suite Administrator Community</a></li>
   <li><a href="https://support.google.com/a/answer/3035631?hl=en">Admin Console Feature Map</a></li>
   <li><a href="https://support.google.com/a/answer/172177">Set up G Suite feature releases for users</a></li>
 </ul>
