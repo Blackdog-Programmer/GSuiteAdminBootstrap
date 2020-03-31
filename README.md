@@ -51,6 +51,9 @@
   <li><a href="https://support.google.com/a/topic/14586">Add Users</a></li>
   <li><a href="https://support.google.com/a/answer/33310?hl=en&ref_topic=4364723">Add users individually</a></li>
   <li><a href="https://support.google.com/a/answer/40057">Add several users at once</a></li>
+  <li><a herf="">About Google Cloud Directory Sync</a></li>
+  <li><a herf=""> </a></li>
+  <li><a herf=""> </a></li>
 </ul>
 
 ## 2. Managing G Suite
