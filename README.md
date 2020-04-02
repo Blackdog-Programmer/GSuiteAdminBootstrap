@@ -53,10 +53,10 @@
   <li><a href="https://support.google.com/a/answer/106368">About Google Cloud Directory Sync</a>
     <ul>
       <li><a href="https://www.varonis.com/blog/the-difference-between-active-directory-and-ldap/">The Difference Between Active Directory and LDAP(Lightweight Directory Access Protocol)</a></li>
+      <li><a href="https://support.google.com/a/answer/6120130">What is Synced</a></li>
+      <li><a href="https://support.google.com/meet/answer/9292748?hl=en&ref_topic=7290350">GCDS FAQ</a></li>
     </ul>
   </li>
-  <li><a href="https://support.google.com/a/answer/6120130">What is Synced</a></li>
-  <li><a href="https://support.google.com/meet/answer/9292748?hl=en&ref_topic=7290350">GCDS FAQ</a></li>
 </ul>
 
 ## 2. Managing G Suite
