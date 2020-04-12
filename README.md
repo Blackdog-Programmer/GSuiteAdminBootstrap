@@ -52,6 +52,7 @@
   <li><a href="https://support.google.com/a/answer/40057">Add several users at once</a></li>
   <li><a href="https://support.google.com/a/answer/106368">About Google Cloud Directory Sync</a>
     <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Active_Directory">What is Active Directory</a></li>
       <li><a href="https://www.varonis.com/blog/the-difference-between-active-directory-and-ldap/">The Difference Between Active Directory and LDAP(Lightweight Directory Access Protocol)</a></li>
       <li><a href="https://support.google.com/a/answer/6120130">What is Synced</a></li>
       <li><a href="https://support.google.com/meet/answer/9292748?hl=en&ref_topic=7290350">GCDS FAQ</a></li>
@@ -64,6 +65,12 @@
   </li>
   <li><a href="https://developers.google.com/gsuite/products">Developer Offering</a></li>
   <li><a href="https://developers.google.com/apis-explorer/#p/">Google APIs Explorer</a></li>
+</ul>
+
+<h4>Adding Groups</h4>
+<ul>
+  <li><a href="https://support.google.com/a/answer/33329?hl=en&ref_topic=14869&authuser=1">About Google Groups</a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 ## 2. Managing G Suite
