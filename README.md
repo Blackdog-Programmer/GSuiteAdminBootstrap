@@ -45,7 +45,7 @@
   <li><a href="https://support.google.com/a/answer/53340">Customize a G Suite service URL</a></li>
 </ul>
 
-<h4>Adding Users</h4>
+<h4>Adding and Provisioning Users</h4>
 <ul>
   <li><a href="https://support.google.com/a/topic/14586">Add Users</a></li>
   <li><a href="https://support.google.com/a/answer/33310?hl=en&ref_topic=4364723">Add users individually</a></li>
@@ -57,6 +57,13 @@
       <li><a href="https://support.google.com/meet/answer/9292748?hl=en&ref_topic=7290350">GCDS FAQ</a></li>
     </ul>
   </li>
+  <li><a href="https://developers.google.com/admin-sdk/">G Suite Admin SDK</a>
+    <ul>
+      <li><a href="https://developers.google.com/admin-sdk/directory/v1/guides/manage-users">Directory API: User Accounts</a></li>
+    </ul>
+  </li>
+  <li><a href="https://developers.google.com/gsuite/products">Developer Offering</a></li>
+  <li><a href="https://developers.google.com/apis-explorer/#p/">Google APIs Explorer</a></li>
 </ul>
 
 ## 2. Managing G Suite
