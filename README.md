@@ -107,6 +107,14 @@
   <li><a href="https://www.coursera.org/learn/introduction-g-suite/supplement/XvosJ/user-licenses">How licensing works</a></li>
 </ul>
 
+<h4>Organizational Structure</h4>
+
+
+<h4>Introduction to your Directory</h4>
+
+
+<h4>Introduction to your Administrator Roles</h4>
+
 
 ## 2. Managing G Suite
 
