@@ -72,6 +72,7 @@
   <li><a href="https://support.google.com/a/answer/33329?hl=en&ref_topic=14869&authuser=1">About Google Groups</a>
     <ul>
       <li><a href="https://support.google.com/a/answer/33329?hl=en&ref_topic=14869&authuser=2#Admin">Groups for Business (G Suite core service)</a></li>
+      <li><a href="https://support.google.com/a/answer/33329?hl=en&ref_topic=14869&authuser=2#Groups">Google Groups (additional Google service)</a></li>
     </ul>
   </li>
 </ul>
