@@ -80,6 +80,7 @@
 <h4>Adding Buildings, Features and Calendar Resources</h4>
 <ul>
   <li><a href="https://support.google.com/a/answer/1033925">Set up buildings, features, and other resources</a></li>
+  <li><a href="https://www.coursera.org/learn/introduction-g-suite/supplement/daEGW/exercise-1-adding-calendar-resources">Impact of using structured resources</a></li>
 </ul>
 
 ## 2. Managing G Suite
