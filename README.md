@@ -92,6 +92,7 @@
   <li><a href="https://support.google.com/mail/answer/41078">Change or reset your password.</a></li>
   <li><a href="https://support.google.com/a/answer/33382?hl=en&ref_topic=7294638">Set up password recovery for users</a></li>
   <li><a href="https://www.coursera.org/learn/introduction-g-suite/supplement/J747Z/exercise-2-reset-a-users-password">Create a strong password & a more secure account</a></li>
+  <li><a href="https://www.coursera.org/learn/introduction-g-suite/supplement/fWG01/exercise-4-suspend-a-user">Suspend a user</a></li>
 </ul>
 
 
