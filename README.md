@@ -77,6 +77,11 @@
   </li>
 </ul>
 
+<h4>Adding Buildings, Features and Calendar Resources</h4>
+<ul>
+  <li><a href="https://support.google.com/a/answer/1033925">Set up buildings, features, and other resources</a></li>
+</ul>
+
 ## 2. Managing G Suite
 
 
