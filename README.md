@@ -108,6 +108,14 @@
 </ul>
 
 <h4>Organizational Structure</h4>
+<ul>
+  <li><a href="https://support.google.com/a/answer/4352075">How the organizational structure works</a>
+    <ul>
+      <li>To control which applications and services are available to users</li>
+      <li>To configure the available services differently for different sets of users</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h4>Introduction to your Directory</h4>
