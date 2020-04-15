@@ -145,6 +145,30 @@
 
 
 ## 2. Managing G Suite
+<h4>Managing G Suite Services</h4>
+
+
+<h4>Gmail</h4>
+
+
+<h4>Calendar</h4>
+
+
+<h4>Drive and Docs</h4>
+
+
+<h4>Mobile Device Management</h4>
+
+
+<h4>Google Valut</h4>
+
+
+<h4>Reporting</h4>
+
+
+<h4>Domain Management</h4>
+
+
 
 
 ## 3. G Suite Security
