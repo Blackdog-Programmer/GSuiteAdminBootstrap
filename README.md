@@ -147,7 +147,9 @@
 
 
 ## 3. G Suite Security
-
+<ul>
+  <li><a href="https://support.google.com/a/answer/6002699?hl=en">Verify a user’s identity with extra security</a></li>
+</ul>
 
 ## 4. G Suite Mail Management
 
