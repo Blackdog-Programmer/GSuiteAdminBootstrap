@@ -152,7 +152,9 @@
   <li><a href="https://support.google.com/a/answer/6002699?hl=en">Verify a user’s identity with extra security</a>
     <ul>
       <li><a href="https://support.google.com/a/answer/9022736">Add employee ID as a login challenge</a></li>
+    </ul>
   </li>
+  <li><a href="https://support.google.com/mail/answer/7036019?visit_id=637225132047634824-1072887263&rd=1">Gmail security checkup</a></li>
 </ul>
 
 ## 4. G Suite Mail Management
