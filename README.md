@@ -146,29 +146,75 @@
 
 ## 2. Managing G Suite
 <h4>Managing G Suite Services</h4>
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Gmail</h4>
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Calendar</h4>
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Drive and Docs</h4>
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Mobile Device Management</h4>
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Google Valut</h4>
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Reporting</h4>
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Domain Management</h4>
-
-
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 ## 3. G Suite Security
