@@ -129,7 +129,7 @@
   <li><a href="https://support.google.com/a/answer/60218">Turn Directory on or off</a></li>
   <li><a href="https://support.google.com/a/answer/9022736">Add employee ID as a login challenge</a></li>
   <li><a href="https://support.google.com/a/answer/6191788">Add information to a user’s profile</a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/answer/7566446">Customize a directory for a team or group</a></li>
 </ul>
 
 
