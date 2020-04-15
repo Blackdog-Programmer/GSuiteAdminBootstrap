@@ -125,9 +125,22 @@
 
 
 <h4>Introduction to your Directory</h4>
+<ul>
+  <li><a href="https://support.google.com/a/answer/60218">Turn Directory on or off</a></li>
+  <li><a href="https://support.google.com/a/answer/9022736">Add employee ID as a login challenge</a></li>
+  <li><a href="https://support.google.com/a/answer/6191788">Add information to a user’s profile</a></li>
+  <li><a href=""> </a></li>
+</ul>
 
 
 <h4>Introduction to your Administrator Roles</h4>
+<ul>
+  <li><a href="https://support.google.com/a/answer/2405986">Pre-built administrator roles</a></li>
+  <li><a href="https://support.google.com/a/answer/172176">Assign administrator roles to a user</a></li>
+  <li><a href="https://support.google.com/a/answer/2406043">Create custom administrator roles</a></li>
+  <li><a href="https://support.google.com/a/answer/1219251">Administrator privilege definitions</a></li>
+  <li><a href="https://support.google.com/a/answer/3033063">Add recovery options to your administrator account</a></li>
+</ul>
 
 
 ## 2. Managing G Suite
