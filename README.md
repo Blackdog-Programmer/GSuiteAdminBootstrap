@@ -115,6 +115,14 @@
       <li>To configure the available services differently for different sets of users</li>
     </ul>
   </li>
+  
+  <li><a href="https://support.google.com/a/answer/182537">Add an organizational unit</a></li>
+  
+  <li><a href="https://support.google.com/a/answer/182538">Modify the organizational structure</a></li>
+  
+  <li><a href="https://support.google.com/a/answer/182449">Move users to an organizational unit</a></li>
+  
+  <li><a href="https://support.google.com/a/answer/182449">Apply policies to the organizational unit</a></li>
 </ul>
 
 
