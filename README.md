@@ -18,7 +18,6 @@
 
 ## 1. Introduction to G Suite
 
-### Week 1
 <h4>G Suite Domain Setup</h4>
 <ul> 
   <li><a href="https://support.google.com/a/answer/60216?authuser=1&hl=en">Verify your domain for G Suite</a>
@@ -130,6 +129,7 @@
   <li><a href="https://support.google.com/a/answer/9022736">Add employee ID as a login challenge</a></li>
   <li><a href="https://support.google.com/a/answer/6191788">Add information to a user’s profile</a></li>
   <li><a href="https://support.google.com/a/answer/7566446">Customize a directory for a team or group</a></li>
+  <li><a href="https://support.google.com/a/answer/9281635">Add shared contacts to the Directory</a></li>
 </ul>
 
 
