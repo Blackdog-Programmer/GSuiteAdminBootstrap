@@ -130,6 +130,7 @@
   <li><a href="https://support.google.com/a/answer/6191788">Add information to a user’s profile</a></li>
   <li><a href="https://support.google.com/a/answer/7566446">Customize a directory for a team or group</a></li>
   <li><a href="https://support.google.com/a/answer/9281635">Add shared contacts to the Directory</a></li>
+  <li><a href="https://support.google.com/a/answer/7326921">Let users change their photo and profile information</a></li>
 </ul>
 
 
