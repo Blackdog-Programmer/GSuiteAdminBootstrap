@@ -117,12 +117,10 @@
   </li>
   
   <li><a href="https://support.google.com/a/answer/182537">Add an organizational unit</a></li>
-  
   <li><a href="https://support.google.com/a/answer/182538">Modify the organizational structure</a></li>
-  
   <li><a href="https://support.google.com/a/answer/182449">Move users to an organizational unit</a></li>
-  
   <li><a href="https://support.google.com/a/answer/182449">Apply policies to the organizational unit</a></li>
+  <li><a href="https://support.google.com/a/answer/182442">Control who can access G Suite and Google services</a></li>
 </ul>
 
 
