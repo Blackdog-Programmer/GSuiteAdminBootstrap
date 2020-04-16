@@ -147,10 +147,12 @@
 ## 2. Managing G Suite
 <h4>Managing G Suite Services</h4>
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/answer/182442?visit_id=637226353521540898-131857378&rd=1">Managing access to services</a>
+    <ul>
+      <li><a href="https://support.google.com/a/answer/7514107">How changes propagate to Google services</a></li>
+    </ul>
+  </li>
+  <li><a href="https://support.google.com/a/answer/172177/?authuser=2">Set up G Suite feature releases for users</a></li>
 </ul>
 
 
