@@ -220,10 +220,13 @@
 
 <h4>Google Valut</h4>
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/vault/answer/2990828">How retention works</a></li>
+  <li><a href="https://support.google.com/vault/answer/2473591">Place Gmail and classic Hangouts on hold</a></li>
+  <li><a href="https://support.google.com/vault/answer/6161352">Get started with search and export</a></li>
+  <li><a href="https://support.google.com/vault/answer/2584132">Get started: Vault administrators</a></li>
+  <li><a href="https://support.google.com/vault/answer/6127699">Supported data types</a></li>
+  <li><a href="https://support.google.com/vault/answer/2474474">Use search operators</a></li>
+  <li><a href="https://support.google.com/vault/answer/6161352">Get started with search and export</a></li>
 </ul>
 
 
