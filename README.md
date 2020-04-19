@@ -7,6 +7,7 @@
     </ul>
   </li>
   <li><a href="https://help.dreamhost.com/hc/en-us/articles/215032408-What-is-an-MX-record-">What is an MX record?</a></li>
+  <li><a href="https://www.makeuseof.com/tag/pop-vs-imap/">IMAP vs. POP3: What Is It and Which One Should You Use?</a></li>
 </ul>
 
 ## 0. Reference
@@ -160,7 +161,12 @@
 
 <h4>Gmail</h4>
 <ul>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/topic/4596824">Manage email features</a>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages">Accelerated Mobile Pages</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/S/MIME">S/MIME (Secure/Multipurpose Internet Mail Extensions)</a></li>
+    </ul>
+  </li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
