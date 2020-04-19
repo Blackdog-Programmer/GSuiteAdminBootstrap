@@ -153,6 +153,8 @@
     </ul>
   </li>
   <li><a href="https://support.google.com/a/answer/172177/?authuser=2">Set up G Suite feature releases for users</a></li>
+  <li><a href="https://support.google.com/a/answer/9050643">Control access to G Suite and Google services with groups</a></li>
+  <li><a href="https://gsuite.google.com/whatsnew/calendar/">G Suite release calendar</a></li>
 </ul>
 
 
