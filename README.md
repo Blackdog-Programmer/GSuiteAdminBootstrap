@@ -262,6 +262,8 @@
 
 
 ## 3. G Suite Security
+
+### 3.1 Common Security Setting
 <ul>
   <li><a href="https://www.coursera.org/learn/g-suite-security/supplement/0Ga0f/introduction-to-common-security-settings">Introduction to Common Security Settings</a></li>
   <li><a href="https://support.google.com/a/answer/6002699?hl=en">Verify a user’s identity with extra security</a>
@@ -271,6 +273,16 @@
   </li>
   <li><a href="https://support.google.com/mail/answer/7036019?visit_id=637225132047634824-1072887263&rd=1">Gmail security checkup</a></li>
 </ul>
+
+
+### 3.2 Single Sign On(SSO)
+
+
+### 3.3 Application Security
+
+
+### 3.4 Security Tools
+
 
 ## 4. G Suite Mail Management
 
