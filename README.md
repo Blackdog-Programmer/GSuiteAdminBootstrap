@@ -263,6 +263,7 @@
 
 ## 3. G Suite Security
 <ul>
+  <li><a href="https://www.coursera.org/learn/g-suite-security/supplement/0Ga0f/introduction-to-common-security-settings">Introduction to Common Security Settings</a></li>
   <li><a href="https://support.google.com/a/answer/6002699?hl=en">Verify a user’s identity with extra security</a>
     <ul>
       <li><a href="https://support.google.com/a/answer/9022736">Add employee ID as a login challenge</a></li>
