@@ -176,28 +176,45 @@
 
 <h4>Calendar</h4>
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/topic/9201">Calendar</a></li>
+  <li><a href="https://support.google.com/a/answer/39410?hl=en&ref_topic=1033168">Managing Calendar for G Suite</a></li>
+  <li><a href="https://support.google.com/a/answer/1686462">Manage Calendar Resources</a></li>
+  <li><a href="https://support.google.com/a/answer/60766">My Calendars list and other settings</a></li>
+  <li><a href="https://support.google.com/a/answer/60765">Set Calendar visibility and sharing options</a></li>
+  <li><a href="https://support.google.com/a/answer/1037476">Test scheduling resources</a></li>
 </ul>
 
 
 <h4>Drive and Docs</h4>
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/users/answer/9282958">Drive training and help</a></li>
+  <li><a href="https://support.google.com/a/topic/2490075">Drive</a></li>
+  <li><a href="https://support.google.com/a/answer/2490026">Overview: Manage Drive for an organization</a></li>
+  <li><a href="https://support.google.com/a/answer/6085538?hl=en&ref_topic=2498056&visit_id=636976121827936205-2396464404&rd=1">Get started: Drive setup guide for admins</a></li>
+  <li><a href="https://support.google.com/a/topic/7337266">Manage shared drives</a></li>
+  <li><a href="https://developers.google.com/drive/">Drive API</a></li>
+  <li><a href="https://support.google.com/a/answer/2993112">Restore a deleted user's Drive files</a></li>
+  <li><a href="https://support.google.com/a/answer/1247799">Transfer Drive files to a new owner</a></li>
+  <li><a href="https://support.google.com/a/answer/6052340">Restore a G Suite user’s Gmail and Drive data</a></li>
+  <li><a href="https://support.google.com/docs/answer/6388102">Work on Google Docs, Sheets, & Slides offline</a></li>
+  <li><a href="https://support.google.com/drive/answer/7329379#Keepoffline">Use Drive File Stream with work or school</a></li>
+  <li><a href="https://support.google.com/a/topic/7337266">Manage shared drives</a></li>
+  <li><a href="https://support.google.com/a/answer/7374057">Migrate content to a shared drive</a></li>
+  <li><a href="">Restore deleted files or shared drives</a></li>
 </ul>
 
 
 <h4>Mobile Device Management</h4>
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/topic/24642">Manage mobile devices</a></li>
+  <li><a href="https://support.google.com/a/answer/7400753">Set up basic mobile device management</a></li>
+  <li><a href="https://support.google.com/a/answer/6328699">Set up advanced mobile device management</a></li>
+  <li><a href="https://support.google.com/a/answer/7576736">Compare mobile management features</a></li>
+  <li><a href="https://support.google.com/a/users/answer/190930">Google Apps Device Policy overview</a></li>
+  <li><a href="https://support.google.com/a/answer/7129612">Inventory company-owned devices</a></li>
+  <li><a href="https://support.google.com/a/answer/173390">Remove corporate data from a mobile device</a></li>
+  <li><a href="https://support.google.com/a/answer/178854">Block access to your Google service on a lost device</a></li>
+  <li><a href="https://support.google.com/a/answer/7425191">Automate mobile management tasks with rules</a></li>
 </ul>
 
 
