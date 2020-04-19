@@ -227,24 +227,37 @@
   <li><a href="https://support.google.com/vault/answer/6127699">Supported data types</a></li>
   <li><a href="https://support.google.com/vault/answer/2474474">Use search operators</a></li>
   <li><a href="https://support.google.com/vault/answer/6161352">Get started with search and export</a></li>
+  <li><a href="https://support.google.com/a/answer/100458?hl=en">Export your organization's data</a></li>
 </ul>
 
 
 <h4>Reporting</h4>
 <ul>
   <li><a href="https://support.google.com/a/topic/9026900">About reports and alerts</a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/answer/4579579">Admin audit log</a></li>
+  <li><a href="https://support.google.com/a/topic/2618873">Email Log Search</a></li>
+  <li><a href="https://support.google.com/a/answer/4580176">Account activity reports</a></li>
+  <li><a href="https://support.google.com/a/answer/6072773?hl=en&ref_topic=7558954#understand">Understand app reports data</a></li>
+  <li><a href="https://support.google.com/a/answer/6000244">Highlights report</a></li>
+  <li><a href="https://support.google.com/a/answer/6072773">App reports on your whole organization</a></li>
+  <li><a href="https://support.google.com/a/topic/9027054">Understand audit logs</a></li>
+  <li><a href="https://support.google.com/a/answer/3230421">Administrator email alerts</a></li>
+  <li><a href="https://support.google.com/a/answer/9105393">About the alert center</a></li>
+  <li><a href="https://support.google.com/a/answer/2618874">Track message delivery with Email Log Search</a></li>
+  <li><a href="https://support.google.com/a/answer/2618876">View Email Log Search result details</a></li>
+  <li><a href="https://support.google.com/a/answer/2623280">Interpret Email Log Search results</a></li>
+  <li><a href="https://support.google.com/a/answer/2623280#post-delivery">Post-delivery message status</a></li>
 </ul>
 
 
 <h4>Domain Management</h4>
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/answer/177483">What is a domain?</a></li>
+  <li><a href="https://support.google.com/a/answer/7502379">Add more domains to your G Suite or Cloud Identity account</a></li>
+  <li><a href="https://support.google.com/a/answer/183028">Remove a domain or domain alias</a></li>
+  <li><a href="https://support.google.com/a/answer/2573637">Domain name basics</a></li>
+  <li><a href="https://support.google.com/a/answer/175747">Multiple domains FAQ</a></li>
+  <li><a href="https://support.google.com/a/answer/6160020">Whitelist trusted G Suite domains</a></li>
 </ul>
 
 
