@@ -165,9 +165,10 @@
     <ul>
       <li><a href="https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages">Accelerated Mobile Pages</a></li>
       <li><a href="https://en.wikipedia.org/wiki/S/MIME">S/MIME (Secure/Multipurpose Internet Mail Extensions)</a></li>
+      <li><a href="https://support.google.com/a/answer/105694?hl=en&ref_topic=4596824">Turn POP and IMAP on and off for users</a></li>
     </ul>
   </li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/users/topic/23333">G Suite Sync for Microsoft Outlook</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
 </ul>
