@@ -169,8 +169,8 @@
     </ul>
   </li>
   <li><a href="https://support.google.com/a/users/topic/23333">G Suite Sync for Microsoft Outlook</a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://support.google.com/a/answer/2364576">Configure outbound messages with footer text</a></li>
+  <li><a href="https://support.google.com/a/answer/2364580">Set up rules for attachment compliance</a></li>
 </ul>
 
 
