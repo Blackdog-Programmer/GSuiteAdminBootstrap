@@ -272,6 +272,14 @@
     </ul>
   </li>
   <li><a href="https://support.google.com/mail/answer/7036019?visit_id=637225132047634824-1072887263&rd=1">Gmail security checkup</a></li>
+  <li><a href="https://support.google.com/a/answer/2537800">Manage user security settings</a></li>
+  <li><a href="https://support.google.com/a/answer/7587183?hl=en">Security checklist for medium and large businesses (100+ users)</a></li>
+  <li><a href="https://admin.google.com/AdminHome#Reports:subtab=security">Enrollment report</a></li>
+  <li><a href="https://support.google.com/a/answer/9176657">Deploy 2-Step Verification</a></li>
+  <li><a href="https://support.google.com/accounts/answer/185839">Turn on 2-Step Verification</a></li>
+  <li><a href="https://support.google.com/a/answer/2370108">Apply custom security policies</a></li>
+  <li><a href="https://support.google.com/a/answer/9176805">Avoid account lockouts when 2-Step Verification is enforced</a></li>
+  <li><a href="https://support.google.com/a/answer/7576830">Set session length for Google services</a></li>
 </ul>
 
 
