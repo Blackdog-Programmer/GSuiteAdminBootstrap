@@ -284,6 +284,11 @@
 
 
 ### 3.2 Single Sign On(SSO)
+<h4>Security Assertion Markup Language (SAML)</h4>
+<ul>
+  <li>Configuring one of over 200 third-party pre-integrated cloud applications as your service provider (SP)</li>
+  <li>Setting up your own custom SAML app for cloud applications that aren't in the pre-integrated apps list</li>
+</ul>
 
 
 ### 3.3 Application Security
