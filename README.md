@@ -288,6 +288,9 @@
 <ul>
   <li>Configuring one of over 200 third-party pre-integrated cloud applications as your service provider (SP)</li>
   <li>Setting up your own custom SAML app for cloud applications that aren't in the pre-integrated apps list</li>
+  <li><a href="https://support.google.com/a/topic/7417510">Using SAML to set up federated SSO (Pre-integrated apps)</a></li>
+  <li><a href="https://support.google.com/a/answer/6087519">Set up your own custom SAML application</a></li>
+  <li><a href="https://support.google.com/a/answer/6301827">SAML service provider URLs</a></li>
 </ul>
 
 
