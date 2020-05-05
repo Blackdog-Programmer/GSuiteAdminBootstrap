@@ -295,9 +295,28 @@
 
 
 ### 3.3 Application Security
+<kbd>
+  <img src="https://www.google.com/support/enterprise/static/gapps/art/admin/en/cpanel/3-legged-oauth-diagram.png" alt="3-legged OAuth Diagram">
+</kbd><br>
 
+<ul>
+  <li><a href="https://developers.google.com/gsuite/products">Developer Offerings (G Suite APIs list)</a></li>
+  <li><a href="https://developers.google.com/admin-sdk/">Admin SDK</a></li>
+  <li><a href="https://support.google.com/a/answer/7281227">Whitelist connected apps</a></li>
+  <li><a href="https://developers.google.com/identity/protocols/OAuth2">Using OAuth 2.0 to Access Google APIs</a></li>
+  <li><a href="https://support.google.com/a/answer/180490">Evaluate a Marketplace app's security</a></li>
+  <li><a href="https://support.google.com/a/answer/172981">Access Marketplace apps</a></li>
+  <li><a href="https://support.google.com/a/answer/176367">Understand data access for Marketplace apps</a></li>
+  <li><a href="https://support.google.com/a/answer/6216211">Delete an app</a></li>
+</ul>
 
 ### 3.4 Security Tools
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
 
 
 ## 4. G Suite Mail Management
