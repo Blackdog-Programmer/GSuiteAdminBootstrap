@@ -324,12 +324,33 @@
 ## 4. G Suite Mail Management
 
 ### 4.1. Domain Name System(DNS)
+
+<h3>DNS records that impact mail delivery</h3>
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <h4>MX Record</h4>
+  <li>Mail Exchange (MX) records direct email to the servers hosting your user accounts. To set up Gmail if you have G Suite, you need to point your MX records to the Google mail servers. Multiple MX records can be defined for a domain, each with a different priority. If mail can't be delivered using the highest priority record, the second priority record is used, and so on.</li>
+  
+  <h4>TXT Record</h4>
+  <li>A TXT record is a DNS record that provides text information to sources outside your domain, that can be used for a number of arbitrary purposes. G Suite uses TXT records for a variety of purposes such as domain verification and to implement email security measures such as SPF, DKIM, and DMARC which we will discuss later.</li>
+  
+  <h4>CNAME Record</h4>
+  <li>A CNAME or Canonical Name record links an alias name to another true or canonical domain name. For instance, www.example.com might link to example.com. With G Suite services you use CNAME records to customize a Google service address or the address of a website built with Google Sites.</li>
+</ul>
+
+<h3>Other DNS record types</h3>
+<ul>
+  <h4>A Record</h4>
+  <li>An A or Address record (also known as a host record) links a domain to the physical IP address of a computer hosting that domain's services.</li>
+  
+  <h4>NS Record</h4>
+  <li>Name server (NS) records determine which servers will communicate DNS information for a domain. Generally, you have primary and secondary name server records for your domain. When using G Suite you may configure NS records that point to Google servers for DNS queries.</li>
+</ul>
+
+<ul>
+  <li><a href="https://support.google.com/a/answer/140034">Set up MX records for G Suite Gmail</a></li>
+  <li><a href="https://support.google.com/a/answer/2716800">About TXT records</a></li>
+  <li><a href="https://support.google.com/a/answer/112037">About CNAME records</a></li>
+  <li><a href="https://support.google.com/a/answer/2576578">About A records</a></li>
 </ul>
 
 
