@@ -387,6 +387,14 @@
 
 
 ### 4.5. Compliance
+
+<h4>A compliance rule can scan messages for</h4>
+<ul>
+  <li>Attachment compliance: attachments of certain types</li>
+  <li>Content compliance: search for text content</li>
+  <li>Objectionable content: identify messages that contain words in a custom word lists that you define</li>
+</ul>
+
 <ul>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
