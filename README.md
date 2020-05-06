@@ -390,17 +390,24 @@
 
 <h4>A compliance rule can scan messages for</h4>
 <ul>
-  <li>Attachment compliance: attachments of certain types</li>
-  <li>Content compliance: search for text content</li>
-  <li>Objectionable content: identify messages that contain words in a custom word lists that you define</li>
+  <li><strong>Attachment compliance:</strong> attachments of certain types</li>
+  <li><strong>Content compliance:</strong> search for text content</li>
+  <li><strong>Objectionable content:</strong> identify messages that contain words in a custom word lists that you define</li>
+</ul>
+
+<h4>When a message matches a compliance rule, you can</h4>
+<ul>
+  <li>Reject it</li>
+  <li>Quarantine it</li>
+  <li>Deliver it with modifications</li>
 </ul>
 
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.coursera.org/learn/managing-g-suite/supplement/0X5I2/exercise-4-configure-compliance-policies">Configure Compliance Policies</a></li>
+  <li><a href="https://support.google.com/a/answer/1346934">Set up rules for content compliance</a></li>
+  <li><a href="https://support.google.com/a/answer/6280516">Scan your email traffic using DLP rules</a></li>
+  <li><a href="https://support.google.com/a/answer/1346936">Set up rules for objectionable content</a></li>
+  <li><a href="https://support.google.com/a/answer/6104172">Set up and manage email quarantines</a></li>
 </ul>
 
 
