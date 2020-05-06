@@ -351,6 +351,8 @@
   <li><a href="https://support.google.com/a/answer/2716800">About TXT records</a></li>
   <li><a href="https://support.google.com/a/answer/112037">About CNAME records</a></li>
   <li><a href="https://support.google.com/a/answer/2576578">About A records</a></li>
+  <li><a href="https://toolbox.googleapps.com/apps/checkmx/">Check MX</a></li>
+  <li><a href="https://toolbox.googleapps.com/apps/main/">G Suite Tool Box</a></li>
 </ul>
 
 
