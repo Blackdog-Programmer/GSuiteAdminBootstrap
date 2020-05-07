@@ -357,6 +357,15 @@
 
 
 ### 4.2. Enhanching Email Security
+<h4>SPF(Sender Policy Framework)</h4>
+<p>SPF record you are telling receiving mail servers which domains/servers are allowed to send mail on your behalf. Messages sent from other sources may be marked as spam</p>
+
+<h4>DKIM(DomainKeys Identified Mail)</h4>
+<p>helps prevent email spoofing on outgoing messages by adding an encrypted header to every message sent. Recipient servers decrypt this header using the DKIM record to confirm it's validity</p>
+
+<h4>DMARC(Domain-based Message Authentication)</h4>
+<P>prevent outbound spam messages using a Domain-based Message Authentication, Reporting, and Conformance (DMARC) policy. DMARC policies tell email servers how to handle messages that fail SPF/DKIM checks</P>
+
 <ul>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
