@@ -360,38 +360,57 @@
 <h4>SPF(Sender Policy Framework)</h4>
 <p>SPF record you are telling receiving mail servers which domains/servers are allowed to send mail on your behalf. Messages sent from other sources may be marked as spam</p>
 
+<ul>
+  <li><a href="https://support.google.com/a/answer/33786">Authorize email senders with SPF</a></li>
+</ul>
+
 <h4>DKIM(DomainKeys Identified Mail)</h4>
 <p>helps prevent email spoofing on outgoing messages by adding an encrypted header to every message sent. Recipient servers decrypt this header using the DKIM record to confirm it's validity</p>
+
+<ul>
+  <li><a href="https://support.google.com/a/answer/174124">About DKIM</a></li>
+</ul>
 
 <h4>DMARC(Domain-based Message Authentication)</h4>
 <P>prevent outbound spam messages using a Domain-based Message Authentication, Reporting, and Conformance (DMARC) policy. DMARC policies tell email servers how to handle messages that fail SPF/DKIM checks</P>
 
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://support.google.com/a/answer/2466580">About DMARC</a></li>
+  <li><a href="https://support.google.com/a/answer/2466563">Turn on DMARC</a></li>
 </ul>
 
 
 ### 4.3. Email Safety and End User Access
+<h4>POP/IMAP access</h4>
+<p>allow users to connect desktop apps to Gmail</p>
+
+<h4>G Suite Sync for Microsoft Outlook</h4>
+<p>allow users to work with Gmail from Microsoft Outlook</p>
+
+<h4>Gmail offline access</h4>
+
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://support.google.com/a/answer/7492330">About the security dashboard</a></li>
+  <li><a href="https://support.google.com/a/answer/105694">Turn POP and IMAP on and off for users</a></li>
+  <li><a href="https://support.google.com/a/answer/3299041">Set up an image URL proxy whitelist</a></li>
+  <li><a href="https://support.google.com/a/answer/7684186">Work offline in Gmail</a></li>
 </ul>
 
 
 ### 4.4. Prevention of SPAM, Phising and Malware
+<ol>
+  <li>Be more aggressive, for strict filtering of email. (although this may result in valid messages being identified as spam)</li>
+  <li>Bypass internal mail.</li>
+  <li>Use approved sender lists</li>
+</ol>
+
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://support.google.com/a/answer/60751">Whitelist IP addresses in Gmail</a></li>
+  <li><a href="https://support.google.com/a/answer/2364632">Block specific senders based on email address or domain</a></li>
+  <li><a href="https://support.google.com/a/answer/7380368">Use enhanced pre-delivery message scanning</a></li>
+  <li><a href="https://support.google.com/a/answer/2368132">Customize spam filter settings</a></li>
+  <li><a href="https://support.google.com/a/answer/7676854">Set up rules to detect harmful attachments</a></li>
+  <li><a href="https://support.google.com/a/answer/60730">Set up an inbound mail gateway</a></li>
 </ul>
 
 
@@ -421,6 +440,11 @@
 
 
 ### 4.6. Mail Routing
+<ol>
+  <li>Gmail to scan your inbound mail for spam and compliance purposes, but store the mail on your external mail server</li>
+  <li>Some users to receive mail in Gmail inboxes, and others to access mail from your local server (split delivery)</li>
+</ol>
+
 <ul>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
