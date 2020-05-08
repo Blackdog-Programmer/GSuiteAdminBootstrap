@@ -484,18 +484,9 @@
 <h4>Alternate secure route</h4>
 <p>You can use this setting to determine the route a message must take if it requires secure transport. For example, if you use a third-party encryption service, you can use the alternate secure route setting to route otherwise insecure traffic to it.</p>
 
+## 5. G Suite Services
 
-## 5. Others
-<h4>Domain Services</h4>
-<ul>
-  <li><a href="https://www.enom.com/">enom</a></li>
-  <li><a href="https://sg.godaddy.com/offers/domains/godaddy-b?isc=gofkkr12&countryview=1&currencyType=krw&gclid=CjwKCAjwvOHzBRBoEiwA48i6AvTI4QWLZRGyg71Q3QtuR2KPQ0rP5QsZ4g3n9xnjXDXEraBmgdYXzhoCGVoQAvD_BwE&gclsrc=aw.ds">GoDaddy 5G</a></li>
-</ul>
-
-
-## 6. G Suite Services
-
-### [6.1. Google Meet](https://support.google.com/meet/?hl=en#topic=7306097)
+### [5.1. Google Meet](https://support.google.com/meet/?hl=en#topic=7306097)
 <ul>
   <li><a href="https://support.google.com/a/users/answer/9282720?authuser=1&hl=en&authuser=1&ref_topic=7306097&visit_id=637205381559650448-3315435297&rd=1">Hangouts Meet training and help</a></li>
   <li><a href="https://support.google.com/a/users/answer/7317473?authuser=1">Requirements for using Hangouts Meet</a></li>
