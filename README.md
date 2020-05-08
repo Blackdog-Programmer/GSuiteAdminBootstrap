@@ -445,13 +445,44 @@
   <li>Some users to receive mail in Gmail inboxes, and others to access mail from your local server (split delivery)</li>
 </ol>
 
+<h4>Direct delivery</h4>
+<p>This is the default setting and applies where your organization has all of it's users on G Suite. All messages are delivered directly to the Gmail inbox. If your environment is 100% G Suite you should not need to make changes to your mail routing settings in G Suite, however it is very useful to understand the options available to you as the administrator, so you should walk through this lesson and read the Help Center resources provided.</p>
+
+<h4>Split Delivery</h4>
+<p>Incoming messages are routed to either the Gmail inbox or another mail system. This method works well if some of your users use Gmail, and others use a different mail system. This is commonly used during a migration (or deployment) to G Suite.</p>
+
+<h4>Dual Delivery</h4>
+<p>his is used where you want to route messages to the Gmail inbox and another system. With dual delivery, incoming mail is delivered to a primary mail server first. The primary server delivers each message to the inboxes associated with it, then forwards all messages to a secondary mail server. The secondary server delivers the messages to the secondary server inboxes. This method is useful if you are trialling G Suite for a small number of users but you wish your existing mail system to retain a copy of all messages.</p>
+
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://support.google.com/a/answer/2614757">Add mail routes for advanced Gmail delivery</a></li>
+  <li><a href="https://support.google.com/a/answer/2685650">Email routing and delivery</a></li>
 </ul>
+
+<h4>Outbound gateway</h4>
+<p>An outbound mail gateway server processes email messages before they’re delivered. Typically, these servers are used for archiving or spam filtering. The gateway server should be configured to accept and forward mail from G Suite mail IPs only to prevent spammers from using it as an open relay. It's also important that your SPF record contains the gateway address. DKIM will work but only if the gateway does not modify the message in any way.</p>
+
+<p>An outbound gateway can also be defined using a routing setting which is preferred as routing settings offer much more flexibility over outbound gateway setting. The outbound gateway setting applies to everyone in the organization where as routing settings can be applied at the OU level. Routing settings can also be configured to use specific envelope filters and address lists. For example, you may only want to archive mail from your legal department. If this is the requirement you would use a routing setting to capture all outbound mail from the legal department only and route that via the gateway.</p>
+
+<h4>Recipient address map</h4>
+<p>This feature is also known as a virtual user table. It allows the administrator to reroute a message from one address to another address. Each entry in the address map consists of two email addresses; the original intended address and the address where the message should be routed to.</p>
+
+<h4>Inbound email journal acceptance to Vault</h4>
+<p>This feature allows you to use Google Vault to store messages from another mail platform.</p>
+
+<h4>Third party email archiving</h4>
+<p>This feature allows Gmail content to be archived in a third party archive system.</p>
+
+<h4>Non-Gmail mailbox</h4>
+<p>This setting is only for users whose mailboxes are located on an on-premise/non-Gmail mail server. It allows you to use Gmail's spam filtering and other G Suite features such as content compliance and mail routing but messages are delivered to the users external inbox. You must not turn this feature on for Gmail users as they will lose access to their Gmail inbox.</p>
+
+<h4>SMTP Relay service</h4>
+<p>If your organization uses a non-Gmail mail service, you can configure the SMTP Relay service to route outgoing mail through Google. You can use this setting to filter messages for spam and viruses before they reach external contacts. You can also apply G Suite email security and advanced Gmail settings to outgoing messages.</p>
+
+<p>Don't confuse this with the Outbound gateway setting described above. In that setting, your users are using Gmail and you want to route all outbound mail through another SMTP server defined by the outbound gateway setting. Using the SMTP relay service, Google becomes the outbound gateway for your non-Gmail mail users.</p>
+
+<h4>Alternate secure route</h4>
+<p>You can use this setting to determine the route a message must take if it requires secure transport. For example, if you use a third-party encryption service, you can use the alternate secure route setting to route otherwise insecure traffic to it.</p>
 
 
 ## 5. Others
